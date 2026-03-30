@@ -202,7 +202,7 @@
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A10005010000000000000001 /* Project object */ = {
+		A1000A010000000000000001 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
@@ -476,5 +476,5 @@
 /* End XCConfigurationList section */
 
 	};
-	rootObject = A10005010000000000000001 /* Project object */;
+	rootObject = A1000A010000000000000001 /* Project object */;
 }
